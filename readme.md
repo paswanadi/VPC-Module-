@@ -13,9 +13,9 @@ aws provider	~> 5.0
 
 ## Cost
 
-Everything this module creates is free: VPC, subnets, Internet Gateway, route tables. Charges only start when you attach compute or a NAT Gateway.
+## Everything this module creates is free: VPC, subnets, Internet Gateway, route tables. Charges only start when you attach compute or a NAT Gateway.
 
-Testing
+# Testing
 bash
 terraform init
 terraform validate
